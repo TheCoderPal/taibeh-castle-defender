@@ -14,7 +14,6 @@
 //      See Spout.pde for function details
 //
 
-// DECLARE A SPOUT OBJECT HERE
 import SimpleOpenNI.*;
 import sprites.utils.*;
 import sprites.maths.*;
